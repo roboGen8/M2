@@ -33,10 +33,10 @@ public class Person1 {
 	  //Person 1 put your implementation here
       if (input == null) {
           return null;
-      } else if (input.length == 2) {
+      } else if (input.length() == 2) {
           return input;
       } else {
-          String newString = input.substring(2, input.length()) + input.substring(0, 2);
+          return input.substring(2, input.length()) + input.substring(0, 2);
       }
 	}
 
