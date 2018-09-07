@@ -95,7 +95,3 @@ import edu.gatech.oad.antlab.pkg2.*;
 
 
  }
-<<<<<<< HEAD
-=======
->>>>>>> 8b5bcc5cbf59f0c3743a2f841b1e906d3e01d88e
->>>>>>> ed9e4c9dff0ced90e9d17f413960cc0bf55dc76e
